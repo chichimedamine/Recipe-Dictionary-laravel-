@@ -12,4 +12,4 @@ Recipe Dictionary API is a web application designed to help users manage their r
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/chichimedamine/Recipe-Dictionary-laravel-.git
