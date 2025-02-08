@@ -1,7 +1,7 @@
-# Recipe Manager
+# Recipe Dictionary API
 
 ## Description
-Recipe Manager is a web application designed to help users manage their recipes efficiently. Users can add, edit, delete, and search for recipes, making it easier to keep track of their culinary creations.
+Recipe Dictionary API is a web application designed to help users manage their recipes efficiently. Users can add, edit, delete, and search for recipes, making it easier to keep track of their culinary creations.
 
 ## Features
 - Add new recipes
